@@ -1,4 +1,4 @@
-**BPM IS FREE !** 
+*BPM IS FREE !* 
 
 The Bash Package is open source, all of the apps are hosted on 
 
