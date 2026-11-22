@@ -8,4 +8,4 @@ You can even host your own file too from your own github repo / file server.
 
 Have fun :)
 
-**Disclamer** This is just an hobby project made with NO generative AI don't expect frequent update or new apps
+**Disclamer** This is just an hobby project made with NO generative AI don't expect frequent update or new apps also i know this isn't a realistically usable package manager im just learning bash and want to share that with the OSS community 
