@@ -1,6 +1,6 @@
 # BPM IS FREE & OPENSOURCE ! 
 
-The Bash Package is open source, all of the apps are hosted on 
+The Bash Package Manager is open source, all of the apps are hosted on 
 
 https://github.com/zackX86/BPM-FILES 
 
